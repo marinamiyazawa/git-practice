@@ -1,4 +1,2 @@
 hoge
-Marina
-Marina
-marina
+Kani
